@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 this is m3
 i will delete line2
 m3
 this is m4
+=======
+this is branch b
+i will delete line 2
+bbbbbb
+this is b2
+i will delete line 3
+bb2
+bb2
+>>>>>>> b
