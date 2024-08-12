@@ -1,4 +1,7 @@
-this is line 3 and i delete line 1
 this is branch b
 i will delete line 2
 bbbbbb
+this is b2
+i will delete line 3
+bb2
+bb2
