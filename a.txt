@@ -11,4 +11,5 @@ this is b2
 i will delete line 3
 bb2
 bb2
->>>>>>> b
+this is m5
+i will delet 1 line
